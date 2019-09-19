@@ -2,3 +2,4 @@
 
 class notes &amp; practice after class
 
+Try to use Python better.
